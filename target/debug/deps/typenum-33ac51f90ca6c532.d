@@ -1,0 +1,18 @@
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/typenum-33ac51f90ca6c532.rmeta: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/op.rs /Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/consts.rs
+
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/typenum-33ac51f90ca6c532.d: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/op.rs /Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/consts.rs
+
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/op.rs:
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/op.rs
