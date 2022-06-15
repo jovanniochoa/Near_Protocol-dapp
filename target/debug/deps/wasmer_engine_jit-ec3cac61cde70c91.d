@@ -1,0 +1,15 @@
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/wasmer_engine_jit-ec3cac61cde70c91.rmeta: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/artifact.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/builder.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/code_memory.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/engine.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/link.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/serialize.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/mod.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/systemv.rs
+
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/wasmer_engine_jit-ec3cac61cde70c91.d: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/artifact.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/builder.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/code_memory.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/engine.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/link.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/serialize.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/mod.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/systemv.rs
+
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/lib.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/artifact.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/builder.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/code_memory.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/engine.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/link.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/serialize.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/mod.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-jit-1.0.2/src/unwind/systemv.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.0.2

@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/build/typenum-5f00231cc8b28fea/out/op.rs

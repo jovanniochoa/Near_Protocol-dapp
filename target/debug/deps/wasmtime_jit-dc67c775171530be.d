@@ -1,0 +1,16 @@
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/wasmtime_jit-dc67c775171530be.rmeta: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/code_memory.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/compiler.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/instantiate.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/link.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/object.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/unwind.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/native.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/trampoline.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/unwind/systemv.rs
+
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/wasmtime_jit-dc67c775171530be.d: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/code_memory.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/compiler.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/instantiate.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/link.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/object.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/unwind.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/native.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/trampoline.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/unwind/systemv.rs
+
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/lib.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/code_memory.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/compiler.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/instantiate.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/link.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/object.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/unwind.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/native.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/trampoline.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmtime-jit-0.20.0/src/unwind/systemv.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.20.0

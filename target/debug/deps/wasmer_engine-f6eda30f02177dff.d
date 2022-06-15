@@ -1,0 +1,17 @@
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/wasmer_engine-f6eda30f02177dff.rmeta: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/artifact.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/engine.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/error.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/export.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/resolver.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/serialize.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/mod.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/error.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/frame_info.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/tunables.rs
+
+/Users/jovanni/Documents/GitHub/Near_Protocol-dapp/target/debug/deps/wasmer_engine-f6eda30f02177dff.d: /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/lib.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/artifact.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/engine.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/error.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/export.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/resolver.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/serialize.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/mod.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/error.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/frame_info.rs /Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/tunables.rs
+
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/lib.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/artifact.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/engine.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/error.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/export.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/resolver.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/serialize.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/mod.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/error.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/trap/frame_info.rs:
+/Users/jovanni/.cargo/registry/src/github.com-1ecc6299db9ec823/wasmer-engine-1.0.2/src/tunables.rs:
+
+# env-dep:CARGO_PKG_VERSION=1.0.2
